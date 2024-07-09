@@ -34,8 +34,8 @@ Conducted a detailed analysis of retail and warehouse sales data for alcoholic b
 
 ## 🌐 Find Me Online
 
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/gdharan)]
-- **GitHub:** [[Your GitHub Profile URL](https://github.com/GDharan10)]
+- **LinkedIn:** [[https://www.linkedin.com/in/gdharan](https://www.linkedin.com/in/gdharan)]
+- **GitHub:** [[https://github.com/GDharan10](https://github.com/GDharan10)]
 - **Email:** [dharangd10@gamil.com]
 
 ## 📈 Career Goals
