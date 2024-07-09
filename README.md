@@ -14,7 +14,7 @@ I am a passionate and dedicated Machine Learning Engineer, transitioning from a 
 ## 🔧 Skills
 
 - **Programming Languages:** Python
-- **Machine Learning:** Linear Regression, Logistic Regression, Time Series Analysis, Predictive Modeling
+- **Machine Learning:** Linear Regression, Logistic Regression
 - **Tools & Frameworks:** Pandas, Scikit-learn, Jupyter Notebooks
 - **Data Analysis:** Retail Sales Analysis
 
